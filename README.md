@@ -1,4 +1,4 @@
-# 4:3 Auto Resolution Rust
+# 4:3 Auto Resolution Rust ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Автоматический переключатель разрешения экрана для игры Rust в формат 4:3 (1440x1080) с интеллектуальным управлением.
 
